@@ -1,0 +1,122 @@
+.vw {
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+body {
+    background: linear-gradient( #93B1A6, #5C8374);
+}
+
+.homepage {
+    background: linear-gradient(200deg, #040D12, #183D3D, #5C8374);
+    animation: gradient-animation 18s ease infinite;
+    height: max-content;
+}
+
+.container {
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    color: #93B1A6;
+    margin-top: 10px;
+}
+
+.container-fluid {
+    align-items: center;
+    text-align: center;
+}
+
+.navbar {
+    height: 30px;
+    color: white;
+}
+
+.navbar-nav {
+    font-size: 15px;
+    font-family: serif;
+}
+
+.nav-link {
+    color: #93B1A6;
+}
+
+#navbarSupportedContent {
+    text-align: center;
+}
+
+.display-5 {
+    font-family: serif;
+}
+
+.lead {
+    font-family: sans-serif;
+}
+
+.imgs {
+    border-radius: 30%;
+    height: 70%;
+    width: 70%;
+    margin-bottom: 0%;
+    align-items: center;
+}
+
+.background {
+    background: linear-gradient( #93B1A6, #5C8374);
+    width: 100%;
+    animation: gradient-animation 18s ease infinite;
+    height: auto;
+    color: #183D3D;
+    padding-bottom: 10px;
+}
+
+.education {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: serif;
+}
+
+.details {
+    text-align: center;
+}
+
+.col {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#skills {
+    background-color: #183D3D;
+    font-family: serif;
+}
+
+#volunteering {
+    margin-top: 10px;
+    text-align: left;
+    font-family: serif;
+    color: #040D12;
+}
+
+.cols {
+    text-align: left;
+}
+
+.contact-container {
+    background: linear-gradient(200deg, #5C8374, #040D12, #183D3D);
+    animation: gradient-animation 18s ease infinite;
+    font-family: serif;
+    color: #93B1A6;
+    height: 30vh;
+}
+
+.contact-item {
+    color: #93B1A6;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.contact-container>h1 {
+    text-align: center;
+}
