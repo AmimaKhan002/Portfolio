@@ -120,3 +120,7 @@ body {
 .contact-container>h1 {
     text-align: center;
 }
+
+.contact-container>p {
+    text-decoration-line: none;
+}
